@@ -5,7 +5,7 @@ public class Volume {
         double pi=Math.PI;
         double r=d/2;
         double v =  pi * Math.pow(r, 3)*4/3;
-        return v;git
+        return v;
     }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
